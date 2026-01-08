@@ -21,10 +21,4 @@ Satellite images are fetched using latitude–longitude coordinates, and **CNN-b
 ## Tech Stack
 Pandas, NumPy, Scikit-learn, PyTorch, OpenCV, Matplotlib
 
-## Project Details
-- **Track:** Data Science  
-- **Initiative:** CDC Open Project Initiative  
-- **Industry Partner:** YHills  
-- **Type:** Individual Project  
-
 **Pragati Yadav**, IIT Roorkee
