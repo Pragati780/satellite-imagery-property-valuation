@@ -1,0 +1,16 @@
+# Environment & secrets
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large data
+images/
+
+# Temporary / system files
+~$*
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
